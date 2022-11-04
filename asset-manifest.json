@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Todo-list-react/static/css/main.72774efc.css",
+    "main.js": "/Todo-list-react/static/js/main.8c225bd6.js",
+    "static/media/bg.jpg": "/Todo-list-react/static/media/bg.73dbfe93815bf284594c.jpg",
+    "static/media/stick.png": "/Todo-list-react/static/media/stick.f428bf1c2be7f0889cab.png",
+    "static/media/removeItem.svg": "/Todo-list-react/static/media/removeItem.6c682a75149dcd89f397.svg",
+    "index.html": "/Todo-list-react/index.html",
+    "main.72774efc.css.map": "/Todo-list-react/static/css/main.72774efc.css.map",
+    "main.8c225bd6.js.map": "/Todo-list-react/static/js/main.8c225bd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72774efc.css",
+    "static/js/main.8c225bd6.js"
+  ]
+}
